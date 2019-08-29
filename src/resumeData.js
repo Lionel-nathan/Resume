@@ -79,13 +79,15 @@ const ResumeData = {
     
 
   ], // end experienceList array
-
-  Education: [
-    'Damelin - IT: 2015 - 2017',
-    
-    'Cape Peninsula University of Technology - BTech (Software Development): 2018 - 2019',
-  
-  ],
+educationList: [
+  {
+    schoolName: 'Kennesaw State University',
+    schoolLocation: 'Kennesaw, GA',
+    major: 'Computer Science',
+    graduationSemester: 'Fall',
+    graduationYear: '2016'
+  },
+]
  
 } // end ResumeData
 
